@@ -1,0 +1,21 @@
+{
+  "name": "karen-s-themes",
+  "displayName": "Karen's Themes",
+  "description": "Tema com cores em tons de Rosa, Lilás e Violeta",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Karen's Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Karen's Theme-color-theme.json"
+      }
+    ]
+  }
+}
