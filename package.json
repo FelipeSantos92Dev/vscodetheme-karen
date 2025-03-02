@@ -3,19 +3,42 @@
   "displayName": "Karen's Themes",
   "description": "Tema com cores em tons de Rosa, Lilás e Violeta",
   "version": "0.0.1",
+  "publisher": "SeuNomeDePublicador",
+  "author": {
+    "name": "Felipe Santos"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "light theme",
+    "rosa",
+    "lilas",
+    "violeta",
+    "pastel"
+  ],
+  "icon": "images/karen.png",
+  "galleryBanner": {
+    "color": "#E0BBE4",
+    "theme": "light"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Karen's Theme",
+        "label": "Rosa Lilás Violeta Light",
         "uiTheme": "vs",
         "path": "./themes/Karen's Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FelipeSantos92Dev/vscodetheme-karen"
+  },
+  "homepage": "https://github.com/FelipeSantos92Dev/vscodetheme-karen/blob/main/README.md",
+  "license": "MIT"
 }
