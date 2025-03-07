@@ -32,6 +32,11 @@
         "label": "Rosa Lilás Violeta Light",
         "uiTheme": "vs",
         "path": "./themes/Karen's Theme-color-theme.json"
+      },
+      {
+        "label": "Rosa Light",
+        "uiTheme": "vs",
+        "path": "./themes/Karen's Theme-Light-color-theme.json"
       }
     ]
   },
