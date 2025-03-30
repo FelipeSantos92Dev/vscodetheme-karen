@@ -402,7 +402,6 @@
     "welcomePage.tileHoverBackground": "#00000020",
     "widget.shadow": "#0000000d"
   },
-  "name": "Soft Pink Theme",
   "semanticHighlighting": true,
   "semanticTokenColors": {
     "class.declaration": {
