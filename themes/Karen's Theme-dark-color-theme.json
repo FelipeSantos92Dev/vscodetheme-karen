@@ -10,13 +10,13 @@
     "activityBar.border": "#181818",
     "activityBar.dropBorder": "#6e2dd433",
     "activityBar.foreground": "#6e2dd4",
-    "activityBar.inactiveForeground": "#a07a99",
+    "activityBar.inactiveForeground": "#d4d4d4", // Cinza claro (antes era rosa)
     "activityBarBadge.background": "#6e2dd4",
     "activityBarBadge.foreground": "#ffffff",
     "activityBarTop.activeBorder": "#6e2dd4",
     "activityBarTop.dropBorder": "#6e2dd433",
     "activityBarTop.foreground": "#6e2dd4",
-    "activityBarTop.inactiveForeground": "#a07a99",
+    "activityBarTop.inactiveForeground": "#d4d4d4", // Cinza claro (antes era rosa)
     "badge.background": "#6e2dd4",
     "badge.foreground": "#ffffff",
     "breadcrumb.background": "#111111",
@@ -26,18 +26,18 @@
     "button.foreground": "#ffffff",
     "button.hoverBackground": "#6e2dd499",
     "button.secondaryBackground": "#472747",
-    "button.secondaryForeground": "#f0d5e3",
+    "button.secondaryForeground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "button.secondaryHoverBackground": "#5c325c",
     "button.separator": "#573d57",
     "charts.blue": "#7f9fdb",
-    "charts.foreground": "#e0cce0",
+    "charts.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "charts.green": "#8abf8e",
     "charts.lines": "#c8c2c8",
     "charts.orange": "#e6996a",
     "charts.purple": "#6e2dd4",
     "charts.red": "#e67a8c",
     "charts.yellow": "#e6c38a",
-    "checkbox.foreground": "#e0cce0",
+    "checkbox.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "commandCenter.activeBackground": "#6e2dd440",
     "commandCenter.activeForeground": "#ffffff",
     "commandCenter.background": "#111111",
@@ -64,7 +64,7 @@
     "debugIcon.stepOverForeground": "#7f9fdb",
     "debugIcon.stopForeground": "#e67a8c",
     "debugToolBar.background": "#181818",
-    "descriptionForeground": "#d5bfd5cc",
+    "descriptionForeground": "#e6e6e6cc", // Cinza claro (antes era rosa)
     "diffEditor.border": "#6e2dd4",
     "diffEditor.diagonalFill": "#3d283d",
     "diffEditor.insertedLineBackground": "#8abf8e1a",
@@ -79,10 +79,10 @@
     "diffEditorGutter.removedLineBackground": "#00000000",
     "diffEditorOverview.insertedForeground": "#8abf8e25",
     "diffEditorOverview.removedForeground": "#e67a8c30",
-    "disabledForeground": "#d5bfd54d",
+    "disabledForeground": "#e6e6e64d", // Cinza claro (antes era rosa)
     "dropdown.background": "#181818",
     "dropdown.border": "#6e2dd450",
-    "dropdown.foreground": "#e0cce0",
+    "dropdown.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "dropdown.listBackground": "#181818",
     "editor.background": "#111111",
     "editor.findMatchBackground": "#6e2dd430",
@@ -91,7 +91,7 @@
     "editor.findMatchHighlightBorder": "#6e2dd45c",
     "editor.foldBackground": "#ffffff0d",
     "editor.foldPlaceholderForeground": "#6e2dd4",
-    "editor.foreground": "#e0cce0",
+    "editor.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "editor.hoverHighlightBackground": "#6e2dd44d",
     "editor.inactiveSelectionBackground": "#6e2dd44d",
     "editor.lineHighlightBackground": "#6e2dd41a",
@@ -110,17 +110,17 @@
     "editorBracketHighlight.foreground3": "#7f9fdb",
     "editorBracketHighlight.foreground4": "#6e2dd4",
     "editorBracketHighlight.foreground5": "#6ad0d0",
-    "editorBracketHighlight.foreground6": "#e67a99",
+    "editorBracketHighlight.foreground6": "#ff66aa", // Rosa pink (antes era rosa)
     "editorBracketHighlight.unexpectedBracket.foreground": "#e67a8c",
     "editorBracketMatch.background": "#6e2dd44d",
     "editorBracketMatch.border": "#6e2dd473",
-    "editorCodeLens.foreground": "#c8c2c880",
+    "editorCodeLens.foreground": "#cccccc80", // Cinza claro (antes era tons de rosa)
     "editorCursor.background": "#000000",
     "editorCursor.foreground": "#e6c38a",
     "editorError.border": "#00000000",
     "editorError.foreground": "#e67a8c",
     "editorGhostText.border": "#00000000",
-    "editorGhostText.foreground": "#d5bfd570",
+    "editorGhostText.foreground": "#d9d9d970", // Cinza claro (antes era rosa)
     "editorGroup.border": "#1a1a1a",
     "editorGroup.dropBackground": "#6e2dd415",
     "editorGroupHeader.border": "#00000000",
@@ -129,7 +129,7 @@
     "editorGroupHeader.tabsBorder": "#1a1a1a",
     "editorGutter.addedBackground": "#8abf8ecc",
     "editorGutter.background": "#111111",
-    "editorGutter.commentRangeForeground": "#444444",
+    "editorGutter.commentRangeForeground": "#d9d9d9", // Cinza claro (antes era cinza escuro)
     "editorGutter.deletedBackground": "#e67a8ccc",
     "editorGutter.modifiedBackground": "#7f9fdbcc",
     "editorHoverWidget.background": "#181818",
@@ -138,11 +138,11 @@
     "editorIndentGuide.background1": "#6e2dd466",
     "editorInfo.border": "#00000000",
     "editorInlayHint.background": "#6e2dd420",
-    "editorInlayHint.foreground": "#e0cce090",
+    "editorInlayHint.foreground": "#e0e0e090", // Cinza claro (antes era rosa)
     "editorInlayHint.typeBackground": "#6e2dd430",
     "editorInlayHint.typeForeground": "#6e2dd4aa",
-    "editorLineNumber.activeForeground": "#e0cce0",
-    "editorLineNumber.foreground": "#a07a99",
+    "editorLineNumber.activeForeground": "#ffcce8", // Rosa chiclete (antes era rosa)
+    "editorLineNumber.foreground": "#d4d4d4", // Cinza claro (antes era rosa)
     "editorLink.activeForeground": "#6e2dd4",
     "editorMarkerNavigation.background": "#181818",
     "editorMarkerNavigationError.background": "#e67a8c90",
@@ -162,7 +162,7 @@
     "editorStickyScrollHover.background": "#202020",
     "editorSuggestWidget.background": "#181818",
     "editorSuggestWidget.border": "#6e2dd4",
-    "editorSuggestWidget.foreground": "#e0cce0",
+    "editorSuggestWidget.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "editorSuggestWidget.highlightForeground": "#e6c38a",
     "editorSuggestWidget.selectedBackground": "#6e2dd440",
     "editorSuggestWidget.selectedIconForeground": "#ffffff",
@@ -186,13 +186,13 @@
     "extensionButton.prominentForeground": "#ffffff",
     "extensionButton.prominentHoverBackground": "#6e2dd4",
     "focusBorder": "#6e2dd4",
-    "foreground": "#e0cce0",
-    "gitDecoration.conflictingResourceForeground": "#e67a99",
+    "foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
+    "gitDecoration.conflictingResourceForeground": "#ff66aa", // Rosa pink (antes era rosa)
     "gitDecoration.deletedResourceForeground": "#e67a8c",
-    "gitDecoration.ignoredResourceForeground": "#a07a99",
+    "gitDecoration.ignoredResourceForeground": "#d4d4d4", // Cinza claro (antes era rosa)
     "gitDecoration.modifiedResourceForeground": "#7f9fdb",
     "gitDecoration.untrackedResourceForeground": "#8abf8e",
-    "icon.foreground": "#e0cce0AA",
+    "icon.foreground": "#ffcce8AA", // Rosa chiclete (antes era rosa)
     "inlineChat.background": "#181818",
     "inlineChat.border": "#6e2dd4",
     "inlineChatInput.background": "#151515",
@@ -200,8 +200,8 @@
     "inlineChatInput.focusBorder": "#6e2dd4",
     "input.background": "#151515",
     "input.border": "#6e2dd450",
-    "input.foreground": "#e0cce0",
-    "input.placeholderForeground": "#a07a99cc",
+    "input.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
+    "input.placeholderForeground": "#d4d4d4cc", // Cinza claro (antes era rosa)
     "inputOption.activeBackground": "#6e2dd450",
     "inputOption.activeBorder": "#00000000",
     "inputOption.activeForeground": "#ffffff",
@@ -215,7 +215,7 @@
     "keybindingLabel.background": "#181818",
     "keybindingLabel.border": "#6e2dd450",
     "keybindingLabel.bottomBorder": "#6e2dd450",
-    "keybindingLabel.foreground": "#e0cce0",
+    "keybindingLabel.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "list.activeSelectionBackground": "#6e2dd450",
     "list.activeSelectionForeground": "#ffffff",
     "list.dropBackground": "#6e2dd415",
@@ -230,11 +230,11 @@
     "list.warningForeground": "#e6c38a",
     "menu.background": "#181818",
     "menu.border": "#1a1a1a",
-    "menu.foreground": "#e0cce0",
+    "menu.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "menu.selectionForeground": "#ffffff",
     "menu.separatorBackground": "#6e2dd430",
     "menubar.selectionBackground": "#181818",
-    "menubar.selectionForeground": "#e0cce0",
+    "menubar.selectionForeground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "merge.border": "#6e2dd4",
     "merge.commonContentBackground": "#e6c38a30",
     "merge.commonHeaderBackground": "#e6c38a80",
@@ -252,11 +252,11 @@
     "minimapGutter.deletedBackground": "#e67a8c",
     "minimapGutter.modifiedBackground": "#7f9fdb",
     "notificationCenterHeader.background": "#181818",
-    "notificationCenterHeader.foreground": "#e0cce0",
+    "notificationCenterHeader.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "notificationLink.foreground": "#6e2dd4",
     "notifications.background": "#181818",
     "notifications.border": "#6e2dd4",
-    "notifications.foreground": "#e0cce0",
+    "notifications.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "notificationsErrorIcon.foreground": "#e67a8c",
     "notificationsInfoIcon.foreground": "#6e2dd4",
     "notificationsWarningIcon.foreground": "#e6996a",
@@ -267,10 +267,10 @@
     "panelSection.border": "#6e2dd4",
     "panelSectionHeader.background": "#161616",
     "panelSectionHeader.border": "#6e2dd4",
-    "panelSectionHeader.foreground": "#e0cce0",
+    "panelSectionHeader.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "panelTitle.activeBorder": "#6e2dd4",
     "panelTitle.activeForeground": "#6e2dd4",
-    "panelTitle.inactiveForeground": "#a07a99",
+    "panelTitle.inactiveForeground": "#d4d4d4", // Cinza claro (antes era rosa)
     "peekView.border": "#6e2dd4",
     "peekViewEditor.background": "#131313",
     "peekViewEditor.matchHighlightBackground": "#6e2dd433",
@@ -278,21 +278,21 @@
     "peekViewEditorGutter.background": "#131313",
     "peekViewEditorStickyScroll.background": "#202020",
     "peekViewResult.background": "#151515",
-    "peekViewResult.fileForeground": "#e0cce0",
-    "peekViewResult.lineForeground": "#e0cce0",
+    "peekViewResult.fileForeground": "#ffcce8", // Rosa chiclete (antes era rosa)
+    "peekViewResult.lineForeground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "peekViewResult.matchHighlightBackground": "#6e2dd480",
     "peekViewResult.selectionBackground": "#6e2dd433",
     "peekViewResult.selectionForeground": "#ffffff",
     "peekViewTitle.background": "#181818",
-    "peekViewTitleDescription.foreground": "#e0cce0",
+    "peekViewTitleDescription.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "peekViewTitleLabel.foreground": "#ffffff",
     "pickerGroup.border": "#6e2dd4",
-    "pickerGroup.foreground": "#e0cce0",
+    "pickerGroup.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "profileBadge.background": "#6e2dd4",
     "profileBadge.foreground": "#ffffff",
     "progressBar.background": "#6e2dd4",
     "quickInput.background": "#181818",
-    "quickInput.foreground": "#e0cce0",
+    "quickInput.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "quickInputList.focusBackground": "#6e2dd450",
     "quickInputList.focusForeground": "#ffffff",
     "quickInputList.focusIconForeground": "#ffffff",
@@ -307,10 +307,10 @@
     "settings.modifiedItemIndicator": "#6e2dd4",
     "sideBar.background": "#0c0c0c",
     "sideBar.border": "#181818",
-    "sideBar.foreground": "#e0cce0CC",
+    "sideBar.foreground": "#ffcce8CC", // Rosa chiclete (antes era rosa)
     "sideBarSectionHeader.background": "#0c0c0c",
     "sideBarSectionHeader.border": "#181818",
-    "sideBarSectionHeader.foreground": "#e0cce0",
+    "sideBarSectionHeader.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "sideBarStickyScroll.background": "#080808",
     "sideBarStickyScroll.shadow": "#00000066",
     "sideBarTitle.foreground": "#6e2dd4",
@@ -318,10 +318,10 @@
     "statusBar.border": "#181818",
     "statusBar.debuggingBackground": "#6e2dd440",
     "statusBar.debuggingForeground": "#ffffff",
-    "statusBar.foreground": "#a07a99",
+    "statusBar.foreground": "#d4d4d4", // Cinza claro (antes era rosa)
     "statusBar.noFolderBackground": "#050505",
     "statusBar.noFolderBorder": "#181818",
-    "statusBar.noFolderForeground": "#e0cce0cc",
+    "statusBar.noFolderForeground": "#ffcce8cc", // Rosa chiclete (antes era rosa)
     "statusBarItem.activeBackground": "#6e2dd440",
     "statusBarItem.compactHoverBackground": "#6e2dd480",
     "statusBarItem.errorBackground": "#e67a8c",
@@ -334,7 +334,7 @@
     "statusBarItem.offlineForeground": "#ffffff",
     "statusBarItem.offlineHoverBackground": "#8d49f0",
     "statusBarItem.prominentBackground": "#6e2dd440",
-    "statusBarItem.prominentForeground": "#e0cce0",
+    "statusBarItem.prominentForeground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "statusBarItem.prominentHoverBackground": "#6e2dd460",
     "statusBarItem.remoteBackground": "#6ad0d0",
     "statusBarItem.remoteForeground": "#000000",
@@ -351,30 +351,30 @@
     "tab.border": "#181818",
     "tab.hoverBackground": "#6e2dd430",
     "tab.inactiveBackground": "#050505",
-    "tab.inactiveForeground": "#a07a99",
+    "tab.inactiveForeground": "#d4d4d4", // Cinza claro (antes era rosa)
     "tab.lastPinnedBorder": "#6e2dd440",
     "tab.unfocusedActiveBorder": "#6e2dd480",
     "tab.unfocusedActiveForeground": "#6e2dd480",
     "tab.unfocusedHoverBackground": "#6e2dd420",
-    "tab.unfocusedInactiveForeground": "#a07a99",
+    "tab.unfocusedInactiveForeground": "#d4d4d4", // Cinza claro (antes era rosa)
     "terminal.ansiBlack": "#000000",
     "terminal.ansiBlue": "#7f9fdb",
-    "terminal.ansiBrightBlack": "#8f668f",
+    "terminal.ansiBrightBlack": "#d4d4d4", // Cinza claro (antes era tons de rosa)
     "terminal.ansiBrightBlue": "#7f9fdb",
     "terminal.ansiBrightCyan": "#6ad0d0",
     "terminal.ansiBrightGreen": "#8abf8e",
     "terminal.ansiBrightMagenta": "#8d49f0",
     "terminal.ansiBrightRed": "#e67a8c",
-    "terminal.ansiBrightWhite": "#f0d5e3",
+    "terminal.ansiBrightWhite": "#ff9dc6", // Rosa pink (antes era rosa)
     "terminal.ansiBrightYellow": "#e6c38a",
     "terminal.ansiCyan": "#6ad0d0",
     "terminal.ansiGreen": "#8abf8e",
     "terminal.ansiMagenta": "#6e2dd4",
     "terminal.ansiRed": "#e67a8c",
-    "terminal.ansiWhite": "#e0cce0",
+    "terminal.ansiWhite": "#ffcce8", // Rosa chiclete (antes era rosa)
     "terminal.ansiYellow": "#e6c38a",
     "terminal.background": "#0c0c0c",
-    "terminal.foreground": "#e0cce0",
+    "terminal.foreground": "#ffcce8", // Rosa chiclete (antes era rosa)
     "terminal.selectionBackground": "#6e2dd480",
     "terminal.selectionForeground": "#ffffff",
     "terminalCursor.background": "#000000",
@@ -389,10 +389,10 @@
     "textPreformat.foreground": "#e6c38a",
     "textSeparator.foreground": "#6e2dd4",
     "titleBar.activeBackground": "#080808",
-    "titleBar.activeForeground": "#a07a99",
+    "titleBar.activeForeground": "#d4d4d4", // Cinza claro (antes era rosa)
     "titleBar.border": "#181818",
     "titleBar.inactiveBackground": "#080808",
-    "titleBar.inactiveForeground": "#a07a99",
+    "titleBar.inactiveForeground": "#d4d4d4", // Cinza claro (antes era rosa)
     "toolbar.hoverBackground": "#6e2dd440",
     "tree.indentGuidesStroke": "#6e2dd440",
     "walkThrough.embeddedEditorBackground": "#111111",
@@ -427,10 +427,10 @@
       "foreground": "#e6996a"
     },
     "property.declaration": {
-      "foreground": "#e0cce0"
+      "foreground": "#ffcce8" // Rosa chiclete (antes era rosa)
     },
     "variable": {
-      "foreground": "#e67a99"
+      "foreground": "#ff66aa" // Rosa pink (antes era rosa)
     },
     "variable.defaultLibrary": {
       "foreground": "#6ad0d0"
@@ -491,7 +491,7 @@
       "foreground": "#6ad0d0"
     },
     "operator": {
-      "foreground": "#c8c2c8"
+      "foreground": "#d9d9d9" // Cinza claro (antes era cinza rosado)
     }
   },
   "tokenColors": [
@@ -536,7 +536,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#a07a9980"
+        "foreground": "#d4d4d480" // Cinza claro (antes era rosa)
       }
     },
     {
@@ -561,7 +561,7 @@
         "JSXNested"
       ],
       "settings": {
-        "foreground": "#e0cce0"
+        "foreground": "#ffcce8" // Rosa chiclete (antes era rosa)
       }
     },
     {
@@ -692,7 +692,7 @@
     {
       "scope": ["meta.object-literal.key", "variable.object.property"],
       "settings": {
-        "foreground": "#e0cce0"
+        "foreground": "#ffcce8" // Rosa chiclete (antes era rosa)
       }
     },
     {
@@ -781,7 +781,7 @@
         "meta.tag.attributes.js keyword.operator.assignment.js"
       ],
       "settings": {
-        "foreground": "#c8c2c8"
+        "foreground": "#d9d9d9" // Cinza claro (antes era cinza rosado)
       }
     },
     {
@@ -955,13 +955,13 @@
         "entity.source.cmake"
       ],
       "settings": {
-        "foreground": "#e67a99"
+        "foreground": "#ff66aa" // Rosa pink (antes era rosa)
       }
     },
     {
       "scope": ["source.elm constant.type-constructor"],
       "settings": {
-        "foreground": "#e67a99"
+        "foreground": "#ff66aa" // Rosa pink (antes era rosa)
       }
     },
     {
@@ -1020,7 +1020,7 @@
     {
       "scope": ["support.variable.liquid", "support.class.liquid"],
       "settings": {
-        "foreground": "#e67a99"
+        "foreground": "#ff66aa" // Rosa pink (antes era rosa)
       }
     },
     {
@@ -1114,7 +1114,7 @@
       "scope": ["markup.bold", "punctuation.definition.bold"],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#e67a99"
+        "foreground": "#ff66aa" // Rosa pink (antes era rosa)
       }
     },
     {
@@ -1153,7 +1153,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#a07a99"
+        "foreground": "#d4d4d4" // Cinza claro (antes era rosa)
       }
     },
     {
@@ -1195,7 +1195,7 @@
         "source.css.scss meta.property-list.scss entity.name.tag.css"
       ],
       "settings": {
-        "foreground": "#e0cce0"
+        "foreground": "#ffcce8" // Rosa chiclete (antes era rosa)
       }
     },
     {
