@@ -540,6 +540,22 @@
       }
     },
     {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment",
+        "string.quoted.docstring.multi",
+        "comment.block.documentation source",
+        "string.quoted.docstring.multi.python",
+        "string.quoted.docstring.multi.python punctuation.definition.string.begin",
+        "string.quoted.docstring.multi.python punctuation.definition.string.end",
+        "string.quoted.docstring.multi.python constant.character.escape"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#BBBBBB" // Cinza claro bem visível
+      }
+    },
+    {
       "scope": ["constant", "support.constant.core.php"],
       "settings": {
         "foreground": "#e67a8c"
